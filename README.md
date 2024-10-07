@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project “IT Company Website” is a responsive website made using HTML, CSS, Bootstrap and JavaScript. As it is responsive, it works well on all devices. The website includes modules like About, Services, Portfolio, Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
+DK Printers is a comprehensive printing service provider offering high-quality commercial printing, flexible packaging, and customized diaries and calendars. They cater to various industries and focus on sustainability, helping businesses with zero-inventory solutions, swift distribution, and tailored printing. Located in Pune, Maharashtra, the company takes pride in top-notch customer care, timely delivery, and extensive printing options like business cards, brochures, posters, and more. Their team is dedicated to ensuring creative, professional, and impactful printing solutions.ately.
 
 ## Website Link
 
